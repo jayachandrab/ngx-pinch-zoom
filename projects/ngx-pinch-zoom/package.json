@@ -1,16 +1,16 @@
 {
-  "name": "ngx-pinch-zoom",
-  "version": "2.5.5",
+  "name": "opex-ngx-pinch-zoom",
+  "version": "0.1.0",
   "description": "Pinch zoom component for Angular.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drozhzhin-n-e/ngx-pinch-zoom.git"
+    "url": "git+https://github.com/jayachandrab/ngx-pinch-zoom.git"
   },
   "author": {
     "name": "Nikita Drozhzhin",
     "email": "drozhzhin.n.e@gmail.com"
   },
-  "homepage": "http://ivylab.space/pinch-zoom",
+  "homepage": "https://github.com/jayachandrab/ngx-pinch-zoom",
   "keywords": [
     "Angular",
     "Angular 2",
